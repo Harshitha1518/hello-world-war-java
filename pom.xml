@@ -10,7 +10,7 @@
 
 	<properties>
         <sonar.projectKey>java-maven</sonar.projectKey>
-        <sonar.host.url>http://16.16.64.201:9000</sonar.host.url>
+        <sonar.host.url>http://172.31.6.158:9000</sonar.host.url>
     </properties>
 
 	<build>
